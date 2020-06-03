@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19541849199",
+    "firebase_url": "https://shopmobile-7225.firebaseio.com",
+    "project_id": "shopmobile-7225",
+    "storage_bucket": "shopmobile-7225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19541849199:android:cd9af0ab42a44580ad899a",
+        "android_client_info": {
+          "package_name": "com.example.bibek.shopmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19541849199-r4mce5eldr37cq5e0m93ue223428u2gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU29BmfN_UtfQ6UoBd5YhiW7V8yJcJ-ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19541849199-r4mce5eldr37cq5e0m93ue223428u2gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
